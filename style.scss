@@ -11,7 +11,7 @@
     justify-content: space-between;
     /* display:flex; ve justify; iki tarafi direkt olarak sag ve sola yasliyor */
 
-    margin: 2rem 2rem 0 2rem;
+    margin: 1.5rem 1.5rem 0 1.5rem;
 }
 
 .header_a_1 {
@@ -62,9 +62,8 @@
 
 }
 
-body {
+main {
     height: 90vh;
-    width: 98vw;
 }
 
 .container {
@@ -106,6 +105,3 @@ body {
     font-size: 4rem;
 }
 
-.div_right {
-    margin-top: 5rem;
-}
